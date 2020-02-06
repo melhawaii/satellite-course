@@ -44,7 +44,7 @@ If you are unsure of which ERDDAP hosts the dataset you are interested in, you c
 
 ## Example \#1. Examine the Kilauea algae bloom
 
-![](../.gitbook/assets/image%20%28101%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 Following the 2018 lower Puna eruption, an algae bloom was observed off the east coast of the Big Island in June 2018 \(visible near the easternmost point of the island if you zoom in\). 
 
@@ -57,7 +57,7 @@ Let’s see what the chlorophyll concentration data looks like for that period.
 
 Here is what you should see. 
 
-![](../.gitbook/assets/image%20%28124%29.png)
+![](../.gitbook/assets/image%20%28126%29.png)
 
 You'll notice that for this dataset, longitudes go from 0º to 360º instead of -180º to 180º. This allows users to download data for regions across the dateline. Other data sources, not focused on the Pacific, provide the data with longitudes between -180º and 180º. 
 
@@ -71,7 +71,7 @@ You should always check the range of longitudes and latitudes for each dataset y
 * Adjust the colorbar minimum to 0.005 
 * Click on “redraw the graph”
 
-![](../.gitbook/assets/image%20%28114%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
 Scroll through the different time steps using the + button next to the date to see the full extent of the bloom. You can also adjust the color scale by setting different values for colorbar minimum and maximum.   
 Don't forget to click on "Redraw the Graph" after you change settings.
@@ -82,7 +82,7 @@ Under the "redraw the Graph" button, set the file type to ".largePng" and click 
 
 After making all these changes, when the map looks the way you want it to, you can easily share it, or save it by simply copying the URL in your browser.
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](../.gitbook/assets/image%20%28171%29.png)
 
 ## Griddap versus Tabledap
 
@@ -90,7 +90,7 @@ There are two types of data stored on ERDDAP – gridded data \(i.e. satellite d
 
 Got to the [PACIOOS ERDDAP](https://pae-paha.pacioos.hawaii.edu/erddap/index.html) and click on "View a list of all 163 Datasets".
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%2881%29.png)
 
 You can see that there is a "GridDAP" column and a "TableDAP" column, corresponding to different datasets.
 
@@ -117,7 +117,7 @@ Let's now make a traditional temperature/salinity plot:
 * Under "Graph settings", select "circle" as the marker type, white as the "color", and set the color bar maximum to 600 \(that is about the maximal depth in the dataset\)
 * click on "redraw graph"
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 ## Example \#3. Look at wind data from Hurricane Katrina
 
@@ -128,12 +128,12 @@ Go to the [OceanWatch Central Pacific ERDDAP](https://oceanwatch.pifsc.noaa.gov/
 * Change the date to 08/26/2005
 * click on "redraw graph"
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
 * Change the "Graph Type" to "vectors"
 * Change "Vector X" to "ux" and "Vector Y" to "vy"
 
-![](../.gitbook/assets/image%20%28105%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 ## Example \#4. Examine the 1998 El Niño
 
@@ -142,12 +142,12 @@ Go to the [OceanWatch Central Pacific ERDDAP](https://oceanwatch.pifsc.noaa.gov/
 * Make a map of SST for January 1997, for the region: -20 - 20N, 180 to 300E, and adjust the color scale to 18-30ºC
 * Click on "Redraw the Graph"
 
-![SST for January 1997](../.gitbook/assets/image%20%28122%29.png)
+![SST for January 1997](../.gitbook/assets/image%20%28124%29.png)
 
 * Make a map of SST for January 1998, for same region and adjust the color scale
 * Click on "Redraw the Graph"
 
-![](../.gitbook/assets/image%20%28159%29.png)
+![](../.gitbook/assets/image%20%28161%29.png)
 
 We can clearly see the tongue of warm water due to the 1998 El Niño.
 
@@ -159,7 +159,7 @@ Now let's make a **Hovmöller plot**:
 * Adjust the color scale to 18-30ºC
 * Click on "Redraw the Graph"
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 Again, the winter of 1998 was clearly anomalous compared to other years.
 

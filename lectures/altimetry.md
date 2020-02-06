@@ -10,7 +10,7 @@ Satelllite altimeters measure the ocean surface height in relation to the mean s
 
 ## Basic principle
 
-![https://www.star.nesdis.noaa.gov/socd/lsa/AltBathy/](../.gitbook/assets/image%20%2885%29.png)
+![https://www.star.nesdis.noaa.gov/socd/lsa/AltBathy/](../.gitbook/assets/image%20%2887%29.png)
 
 Satellite altimeters are **active microwave** instruments  \(-&gt; not affected by cloud cover\)
 
@@ -57,7 +57,7 @@ SLA = SSH – MSS
 
 MSS represents the mean profile of the SSH over a defined temporal period, also called reference period \(currently 1993-2012\).
 
-![https://duacs.cls.fr/faq/what-are-the-product-specification/altimeter-reference-period-and-absolute-reference/](../.gitbook/assets/image%20%2891%29.png)
+![https://duacs.cls.fr/faq/what-are-the-product-specification/altimeter-reference-period-and-absolute-reference/](../.gitbook/assets/image%20%2893%29.png)
 
 ## Geostrophic currents
 
@@ -65,33 +65,33 @@ At large space scales in the ocean, pressure gradients due to gradients in sea l
 
 SLA obtained from satellite altimetry measurements is used to derive surface geostrophic currents.
 
-![http://www.seos-project.eu/modules/oceancurrents/oceancurrents-c06-s02-p01.html](../.gitbook/assets/image%20%2893%29.png)
+![http://www.seos-project.eu/modules/oceancurrents/oceancurrents-c06-s02-p01.html](../.gitbook/assets/image%20%2895%29.png)
 
 ## Geostrophic currents & SLA
 
-![Son et al, 2014](../.gitbook/assets/image%20%28110%29.png)
+![Son et al, 2014](../.gitbook/assets/image%20%28112%29.png)
 
-![Average geostrophic currents &#x2013; 1992 -2002, Cheng et al, 2014](../.gitbook/assets/image%20%28144%29.png)
+![Average geostrophic currents &#x2013; 1992 -2002, Cheng et al, 2014](../.gitbook/assets/image%20%28146%29.png)
 
 ## Eddies
 
 Eddies can be identified from SLA.
 
-![Cheng et al, 2014](../.gitbook/assets/image%20%2870%29.png)
+![Cheng et al, 2014](../.gitbook/assets/image%20%2872%29.png)
 
 The spatial and temporal resolutions of SLA are 25 km and 7 days, respectively, thus an eddy diameter smaller than 50 km or a lifespan shorter than one week can not be detected using altimetry data.
 
 ## Altimetry missions
 
-![CLS/CNES](../.gitbook/assets/image%20%28141%29.png)
+![CLS/CNES](../.gitbook/assets/image%20%28143%29.png)
 
 ## Current missions
 
-![From: Eric Leuliette, NOAA/NESDIS](../.gitbook/assets/image%20%2895%29.png)
+![From: Eric Leuliette, NOAA/NESDIS](../.gitbook/assets/image%20%2897%29.png)
 
 ## Current constellation coverage
 
-![Jason-2, Jason-3, Sentinel-3A, AltiKa, Cryosat-2. From: Eric Leuliette, NOAA/NESDIS](../.gitbook/assets/image%20%2877%29.png)
+![Jason-2, Jason-3, Sentinel-3A, AltiKa, Cryosat-2. From: Eric Leuliette, NOAA/NESDIS](../.gitbook/assets/image%20%2879%29.png)
 
 Much of the ocean surface is interpolated: low spatial resolution ~ 25km, 7 days
 
@@ -100,7 +100,7 @@ Much of the ocean surface is interpolated: low spatial resolution ~ 25km, 7 days
 * AVISO data. Distributed by CMEMS \(Europe\). Free for research purposes but need to register to get access. [http://marine.copernicus.eu/services-portfolio/access-to-products](http://marine.copernicus.eu/services-portfolio/access-to-products/)[/](http://marine.copernicus.eu/services-portfolio/access-to-products/) 
 * NOAA SLA product: Open access. Currently only from 2012. [https://coastwatch.noaa.gov/cw/satellite-data-products/sea-surface-height/sea-level-anomaly-and-geostrophic-currents-multi-mission-global-optimal-interpolation-gridded.html](https://coastwatch.noaa.gov/cw/satellite-data-products/sea-surface-height/sea-level-anomaly-and-geostrophic-currents-multi-mission-global-optimal-interpolation-gridded.html)
 
-![From: Eric Leuliette, NOAA/NESDIS](../.gitbook/assets/image%20%28150%29.png)
+![From: Eric Leuliette, NOAA/NESDIS](../.gitbook/assets/image%20%28152%29.png)
 
 
 

@@ -1,6 +1,6 @@
 # NetCDF and Panoply tutorial
 
-![From Xkcd.com](../.gitbook/assets/image%20%2886%29.png)
+![From Xkcd.com](../.gitbook/assets/image%20%2888%29.png)
 
 
 
@@ -12,7 +12,7 @@ Many organizations and scientific groups in different countries have adopted net
 
 The NetCDF format has many advantages, the most important of which is that it is **self-describing**, meaning that software packages can directly read the data and determine its structure, the variable names and essential metadata such as the units. This self-describing aspect of the netCDF file format means that the information needed to ensure accurate work \(reduce the incidence of errors\) is available within the data itself \(no need for additional files\). Secondly, it means that different analysis software, like Matlab, R, Python or ArcGIS \(among many others\), have utilities to read and work with NetCDF files. Thirdly, plotting software \(e.g. Ferret, **Panoply**, ncview\) can directly read the netCDF files for visualization.
 
-![Example of embedded metadata within a NetDCF file](../.gitbook/assets/image%20%2859%29.png)
+![Example of embedded metadata within a NetDCF file](../.gitbook/assets/image%20%2861%29.png)
 
 ![Example structure of a NetCDF file containing temperature and precipitation data across a region for 8 time steps](../.gitbook/assets/image%20%288%29.png)
 
@@ -27,7 +27,7 @@ Panoply is available for download at: [https://www.giss.nasa.gov/tools/panoply/]
 * Launch Panoply. 
 * When Panoply opens, it prompts you to open a file. Open the file you just downloaded.
 
-![Panoply interface](../.gitbook/assets/image%20%2837%29.png)
+![Panoply interface](../.gitbook/assets/image%20%2838%29.png)
 
 On the left side, Panoply lists the variables contained in the file \(longitude, latitude, chlorophyll concentration\). 
 
@@ -38,7 +38,7 @@ On the right side, it displays the file’s metadata. You can scroll down to get
 * Find the identifier\_product\_doi in the list of global attributes. Copy it in the doi field on the website. This should lead you here: [https://oceancolor.gsfc.nasa.gov/data/10.5067/AQUA/MODIS/L3M/CHL/2018/](https://oceancolor.gsfc.nasa.gov/data/10.5067/AQUA/MODIS/L3M/CHL/2018/)  This page contains extra information about the data if you are interested in reading more about it.  Metadata varies from file to file depending on how much information is provided by the person/institution who generated the file. 
 * Next, on the left side of the screen, double click on the chlor\_a variable. Keep the default settings and click Create.  \(this will take a minute, it’s a big file\)
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](../.gitbook/assets/image%20%28177%29.png)
 
 Panoply generated an image of the chlorophyll data contained in the file. 
 
@@ -60,7 +60,7 @@ Note: There may be a lag between clicking or adjusting values, and results. It�
   * edit the Title to “AQUA MODIS Chlorophyll Concentration, 2002 – 2018”  
 * Finally, save the image to your computer \(File &gt; Save image\). 
 
-![](../.gitbook/assets/image%20%2888%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
 You can also go to: [https://www.giss.nasa.gov/tools/panoply/colorbars/](https://www.giss.nasa.gov/tools/panoply/colorbars/) to download additional color palettes. Download another palette for chlorophyll, open it in Panoply, then change the color palette for your image to this new one. Save the image to your computer.
 
@@ -81,7 +81,7 @@ Following the same steps as above, create an image of the “analysed\_sst” va
 * Adjust the title with the file’s date. 
 * Save to your computer.
 
-![](../.gitbook/assets/image%20%28100%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 ## Example \#3. Zooming in on a region
 
@@ -90,7 +90,7 @@ Close any graphics window.
 * Double-click on “analysed\_sst” again and click ok. 
 * To zoom in on a region, type “Ctrl”. You will see that your cursor changes to a magnifying glass. While keeping the “Ctrl” key down, click and drag over a region of interest. This will generate a plot of SST for that region only.
 
-![](../.gitbook/assets/image%20%28167%29.png)
+![](../.gitbook/assets/image%20%28169%29.png)
 
 ## Files with multiple time steps
 
@@ -103,7 +103,7 @@ Download chl-a data for several months using the following URL:
 * Adjust the scale to a log scale and an appropriate range of values 
 * Click on the “Array\(s\)” tab. There you can select a specific time step. Scroll through the dates and save a plot.
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28121%29.png)
 
 ## References:
 

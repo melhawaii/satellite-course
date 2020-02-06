@@ -14,6 +14,5 @@
   * [NetCDF and Panoply tutorial](tutorials/netcdf-and-panoply-tutorial.md)
   * [ERDDAP tutorial](tutorials/erddap-tutorial.md)
   * [R tutorial](tutorials/r-tutorial/README.md)
-    * [1. How to work with satellite data in R](tutorials/r-tutorial/how-to-work-with-satellite-data-in-r.md)
     * [1. How to work with satellite data in R](tutorials/r-tutorial/1.-how-to-work-with-satellite-data-in-r.md)
 

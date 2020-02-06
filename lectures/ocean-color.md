@@ -1,6 +1,6 @@
 # Ocean Color
 
-![NASA - SeaWiFS](../.gitbook/assets/image%20%2865%29.png)
+![NASA - SeaWiFS](../.gitbook/assets/image%20%2867%29.png)
 
 ## Objectives
 
@@ -42,18 +42,18 @@ Ocean color measurements reveal a wealth of ecologically important characteristi
 
 ## Reminder: What is measured by the sensors?
 
-![Ocean color measurements focus on light emitted in the visible range](../.gitbook/assets/image%20%2882%29.png)
+![Ocean color measurements focus on light emitted in the visible range](../.gitbook/assets/image%20%2884%29.png)
 
 ![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%285%29.png)
 
 ## Light Penetration
 
-![Transmission of light in &#x201C;pure&#x201D; fresh or saltwater](../.gitbook/assets/image%20%28130%29.png)
+![Transmission of light in &#x201C;pure&#x201D; fresh or saltwater](../.gitbook/assets/image%20%28132%29.png)
 
 * Blue light is scattered by clear water 
 * Red light is absorbed
 
-![](../.gitbook/assets/image%20%28127%29.png)
+![](../.gitbook/assets/image%20%28129%29.png)
 
 Algae and tannins absorb blue and green -&gt; the water looks more brownish 
 
@@ -74,17 +74,17 @@ $$
 
         RRS ~ coeff \* b/a
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
-![](../.gitbook/assets/image%20%28146%29.png)
+![](../.gitbook/assets/image%20%28148%29.png)
 
 Reflectance is affected by the concentration of pigments in the water
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
 ## Reminder: Electromagnetic radiation \(EMR\)
 
-![Credit: Jan Yoshioka, CI](../.gitbook/assets/image%20%2841%29.png)
+![Credit: Jan Yoshioka, CI](../.gitbook/assets/image%20%2842%29.png)
 
 ## Steps for deriving ocean color data products from space
 
@@ -97,11 +97,11 @@ Deriving biological parameters from ocean color measurements is a multi-stage pr
 * Of these three radiance sources, **the desired measurement is Lw**.  Lw carries information about the biological and chemical constituents in the near-surface waters. 
 * To obtain Lw, it is necessary to deduce and remove the contributions of surface reflection and atmospheric path radiance from the measured total, a process known as **atmospheric correction**. This is difficult because Lw is no more than 10 percent of LTOA.
 
-![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28118%29.png)
+![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28120%29.png)
 
 ## Atmospheric correction
 
-![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28152%29.png)
+![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28154%29.png)
 
 The water signal is often less than 10% of the total signal measured by the sensor
 
@@ -109,9 +109,9 @@ The water signal is often less than 10% of the total signal measured by the sens
 
 ## “Ocean color” enables studying microscopic marine features from space
 
-![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28157%29.png)
+![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28159%29.png)
 
-![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%2866%29.png)
+![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%2868%29.png)
 
 The color of the ocean is a function of light that is absorbed or scattered as a result of constituents in the water. 
 
@@ -129,21 +129,21 @@ The intensity of EMR at each wavelength region is stored separately in a stack o
 
 Each band or channel can be referred to by its central wavelength value or by sequential numbering \(1, 2, 3, …\) of each band from shortest to longest wavelength
 
-![](../.gitbook/assets/image%20%28113%29.png)
+![](../.gitbook/assets/image%20%28115%29.png)
 
 ## Absorption Spectra and MODIS bands
 
 Sensor bands are chosen to target specific peaks in absorption spectra.
 
-![MODIS bands](../.gitbook/assets/image%20%28172%29.png)
+![MODIS bands](../.gitbook/assets/image%20%28174%29.png)
 
 ## Various pigments in algae = various peaks in absorption
 
-![From: S. Berg, Winona State](../.gitbook/assets/image%20%2873%29.png)
+![From: S. Berg, Winona State](../.gitbook/assets/image%20%2875%29.png)
 
 ## Spectral characteristics of oceanic waters
 
-![](../.gitbook/assets/image%20%28147%29.png)
+![](../.gitbook/assets/image%20%28149%29.png)
 
 ## Reminder: Higher order products
 
@@ -159,7 +159,7 @@ True-Color Image ****Created from bands 2, 5, and 6 corresponding to wavelengths
 
 Final Color Image = C1\*band2 + C2\*band5 + C3\*band6
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 ## True Color Images - VIIRS
 
@@ -167,11 +167,11 @@ You can visualize or download True Color images from:
 
 {% embed url="https://www.star.nesdis.noaa.gov/sod/mecb/color/ocview/ocview.html" %}
 
-![Algae bloom in the east part of the Black Sea on June 3, 2012](../.gitbook/assets/image%20%2842%29.png)
+![Algae bloom in the east part of the Black Sea on June 3, 2012](../.gitbook/assets/image%20%2843%29.png)
 
-![Sand storm carrying sand from West Africa over Atlantic Ocean on February 27, 2015](../.gitbook/assets/image%20%2881%29.png)
+![Sand storm carrying sand from West Africa over Atlantic Ocean on February 27, 2015](../.gitbook/assets/image%20%2883%29.png)
 
-![Vog from Kilauea Eruption, June 18, 2018](../.gitbook/assets/image%20%2864%29.png)
+![Vog from Kilauea Eruption, June 18, 2018](../.gitbook/assets/image%20%2866%29.png)
 
 ## Sunglint
 
@@ -185,7 +185,7 @@ For example, MODIS/Aqua crosses the equator in the early afternoon when the sun 
 
 ![](../.gitbook/assets/image%20%2831%29.png)
 
-![Sunglint on a 24h VIIRS True Color image](../.gitbook/assets/image%20%2887%29.png)
+![Sunglint on a 24h VIIRS True Color image](../.gitbook/assets/image%20%2889%29.png)
 
 It is not possible to estimate chlorophyll concentration where there is sunglint or clouds….
 
@@ -195,13 +195,13 @@ It is not possible to estimate chlorophyll concentration where there is sunglint
 
 ## Chlorophyll-a concentration
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28128%29.png)
 
 Chlorophyll-a concentration is estimated by looking at the ration of different blue and green bands.
 
 ## Ocean color data products
 
-![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%2894%29.png)
+![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%2896%29.png)
 
 ## Kd490
 
@@ -223,7 +223,7 @@ For ocean color applications, PAR is a common input used in modeling marine prim
 
 With Kd490, PAR \(& some assumptions\), we can calculate PAR at depth.
 
-![From: Frouin &amp; Murakami, 2007](../.gitbook/assets/image%20%2836%29.png)
+![From: Frouin &amp; Murakami, 2007](../.gitbook/assets/image%20%2837%29.png)
 
 ## Primary Productivity
 
@@ -248,19 +248,19 @@ Many different models exist. References:
  [http://](http://www.ifado.eu/wp-content/uploads/2018/08/Lobanova_etal_RemoteSensing_2018-1.pdf)[www.ifado.eu/wp-content/uploads/2018/08/Lobanova\_etal\_RemoteSensing\_2018-1.pdf](http://www.ifado.eu/wp-content/uploads/2018/08/Lobanova_etal_RemoteSensing_2018-1.pdf)  
 
 
-![ESA &#x2013; May 2004, using OC-CCI data](../.gitbook/assets/image%20%28168%29.png)
+![ESA &#x2013; May 2004, using OC-CCI data](../.gitbook/assets/image%20%28170%29.png)
 
 ## Phytoplankton Composition
 
 Satellite ocean color data is used to derive phytoplankton functional groups using a series of Remote Sensing Reflectance \(RRS\) band ratio algorithms at 490, 555 and 670 nm.
 
-![From: Kim Hyde and colleagues, NOAA](../.gitbook/assets/image%20%2853%29.png)
+![From: Kim Hyde and colleagues, NOAA](../.gitbook/assets/image%20%2855%29.png)
 
 ![](../.gitbook/assets/image%20%2823%29.png)
 
 ## Case-1 versus Case-2 waters
 
-![](../.gitbook/assets/image%20%28131%29.png)
+![](../.gitbook/assets/image%20%28133%29.png)
 
 ## Optically-shallow waters
 
@@ -282,13 +282,13 @@ The Pedro Bank, a highly reflective shallow region southwest of Jamaica, and oth
 
 ## Global Ocean Color Sensors
 
-![](../.gitbook/assets/image%20%28138%29.png)
+![](../.gitbook/assets/image%20%28140%29.png)
 
 ## ESA CCI
 
 Different sensors don’t match during their periods of overlap, making it challenging to study long-term trends.
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
 The European Space Agency \(ESA\) started the Climate Change Initiative \(CCI\) to generate satellite-based Essential Climate Variables to allow assessing long-term trends from satellite products.
 

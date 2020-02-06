@@ -1,6 +1,6 @@
 # Ocean Surface Winds
 
-![QuikSCAT, 01/03/2004](../.gitbook/assets/image%20%28151%29.png)
+![QuikSCAT, 01/03/2004](../.gitbook/assets/image%20%28153%29.png)
 
 Ocean wind is defined as the motion of the atmosphere relative to the surface of the ocean.
 
@@ -34,7 +34,7 @@ Scatterometry uses surface roughness and pulse angle to get wind direction and s
 
 The backscatter of scatterometer pulses is sensitive to sea surface roughness, which can be translated to **wind speed** \(see above\).
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 The backscatter is also sensitive to the pulse direction relative to the **wind direction.**
 
@@ -54,7 +54,7 @@ Solution:
 
 ## Ocean Surface Winds - sensors
 
-![From: http://www.remss.com/measurements/ccmp/](../.gitbook/assets/image%20%2856%29.png)
+![From: http://www.remss.com/measurements/ccmp/](../.gitbook/assets/image%20%2858%29.png)
 
 ## CCMP
 
