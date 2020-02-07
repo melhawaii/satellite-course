@@ -1,6 +1,6 @@
 # Ocean Surface Winds
 
-![QuikSCAT, 01/03/2004](../.gitbook/assets/image%20%28153%29.png)
+![QuikSCAT, 01/03/2004](../.gitbook/assets/image%20%28155%29.png)
 
 Ocean wind is defined as the motion of the atmosphere relative to the surface of the ocean.
 

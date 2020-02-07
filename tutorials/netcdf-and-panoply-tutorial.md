@@ -38,7 +38,7 @@ On the right side, it displays the file’s metadata. You can scroll down to get
 * Find the identifier\_product\_doi in the list of global attributes. Copy it in the doi field on the website. This should lead you here: [https://oceancolor.gsfc.nasa.gov/data/10.5067/AQUA/MODIS/L3M/CHL/2018/](https://oceancolor.gsfc.nasa.gov/data/10.5067/AQUA/MODIS/L3M/CHL/2018/)  This page contains extra information about the data if you are interested in reading more about it.  Metadata varies from file to file depending on how much information is provided by the person/institution who generated the file. 
 * Next, on the left side of the screen, double click on the chlor\_a variable. Keep the default settings and click Create.  \(this will take a minute, it’s a big file\)
 
-![](../.gitbook/assets/image%20%28177%29.png)
+![](../.gitbook/assets/image%20%28179%29.png)
 
 Panoply generated an image of the chlorophyll data contained in the file. 
 
@@ -81,7 +81,7 @@ Following the same steps as above, create an image of the “analysed\_sst” va
 * Adjust the title with the file’s date. 
 * Save to your computer.
 
-![](../.gitbook/assets/image%20%28102%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 ## Example \#3. Zooming in on a region
 
@@ -90,7 +90,7 @@ Close any graphics window.
 * Double-click on “analysed\_sst” again and click ok. 
 * To zoom in on a region, type “Ctrl”. You will see that your cursor changes to a magnifying glass. While keeping the “Ctrl” key down, click and drag over a region of interest. This will generate a plot of SST for that region only.
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](../.gitbook/assets/image%20%28171%29.png)
 
 ## Files with multiple time steps
 
@@ -103,7 +103,7 @@ Download chl-a data for several months using the following URL:
 * Adjust the scale to a log scale and an appropriate range of values 
 * Click on the “Array\(s\)” tab. There you can select a specific time step. Scroll through the dates and save a plot.
 
-![](../.gitbook/assets/image%20%28121%29.png)
+![](../.gitbook/assets/image%20%28123%29.png)
 
 ## References:
 

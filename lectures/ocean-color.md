@@ -48,12 +48,12 @@ Ocean color measurements reveal a wealth of ecologically important characteristi
 
 ## Light Penetration
 
-![Transmission of light in &#x201C;pure&#x201D; fresh or saltwater](../.gitbook/assets/image%20%28132%29.png)
+![Transmission of light in &#x201C;pure&#x201D; fresh or saltwater](../.gitbook/assets/image%20%28134%29.png)
 
 * Blue light is scattered by clear water 
 * Red light is absorbed
 
-![](../.gitbook/assets/image%20%28129%29.png)
+![](../.gitbook/assets/image%20%28131%29.png)
 
 Algae and tannins absorb blue and green -&gt; the water looks more brownish 
 
@@ -76,7 +76,7 @@ $$
 
 ![](../.gitbook/assets/image%20%2894%29.png)
 
-![](../.gitbook/assets/image%20%28148%29.png)
+![](../.gitbook/assets/image%20%28150%29.png)
 
 Reflectance is affected by the concentration of pigments in the water
 
@@ -97,11 +97,11 @@ Deriving biological parameters from ocean color measurements is a multi-stage pr
 * Of these three radiance sources, **the desired measurement is Lw**.  Lw carries information about the biological and chemical constituents in the near-surface waters. 
 * To obtain Lw, it is necessary to deduce and remove the contributions of surface reflection and atmospheric path radiance from the measured total, a process known as **atmospheric correction**. This is difficult because Lw is no more than 10 percent of LTOA.
 
-![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28120%29.png)
+![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28121%29.png)
 
 ## Atmospheric correction
 
-![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28154%29.png)
+![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28156%29.png)
 
 The water signal is often less than 10% of the total signal measured by the sensor
 
@@ -109,7 +109,7 @@ The water signal is often less than 10% of the total signal measured by the sens
 
 ## “Ocean color” enables studying microscopic marine features from space
 
-![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28159%29.png)
+![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28161%29.png)
 
 ![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%2868%29.png)
 
@@ -129,13 +129,13 @@ The intensity of EMR at each wavelength region is stored separately in a stack o
 
 Each band or channel can be referred to by its central wavelength value or by sequential numbering \(1, 2, 3, …\) of each band from shortest to longest wavelength
 
-![](../.gitbook/assets/image%20%28115%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
 ## Absorption Spectra and MODIS bands
 
 Sensor bands are chosen to target specific peaks in absorption spectra.
 
-![MODIS bands](../.gitbook/assets/image%20%28174%29.png)
+![MODIS bands](../.gitbook/assets/image%20%28176%29.png)
 
 ## Various pigments in algae = various peaks in absorption
 
@@ -143,7 +143,7 @@ Sensor bands are chosen to target specific peaks in absorption spectra.
 
 ## Spectral characteristics of oceanic waters
 
-![](../.gitbook/assets/image%20%28149%29.png)
+![](../.gitbook/assets/image%20%28151%29.png)
 
 ## Reminder: Higher order products
 
@@ -195,7 +195,7 @@ It is not possible to estimate chlorophyll concentration where there is sunglint
 
 ## Chlorophyll-a concentration
 
-![](../.gitbook/assets/image%20%28128%29.png)
+![](../.gitbook/assets/image%20%28130%29.png)
 
 Chlorophyll-a concentration is estimated by looking at the ration of different blue and green bands.
 
@@ -248,7 +248,7 @@ Many different models exist. References:
  [http://](http://www.ifado.eu/wp-content/uploads/2018/08/Lobanova_etal_RemoteSensing_2018-1.pdf)[www.ifado.eu/wp-content/uploads/2018/08/Lobanova\_etal\_RemoteSensing\_2018-1.pdf](http://www.ifado.eu/wp-content/uploads/2018/08/Lobanova_etal_RemoteSensing_2018-1.pdf)  
 
 
-![ESA &#x2013; May 2004, using OC-CCI data](../.gitbook/assets/image%20%28170%29.png)
+![ESA &#x2013; May 2004, using OC-CCI data](../.gitbook/assets/image%20%28172%29.png)
 
 ## Phytoplankton Composition
 
@@ -260,7 +260,7 @@ Satellite ocean color data is used to derive phytoplankton functional groups usi
 
 ## Case-1 versus Case-2 waters
 
-![](../.gitbook/assets/image%20%28133%29.png)
+![](../.gitbook/assets/image%20%28135%29.png)
 
 ## Optically-shallow waters
 
@@ -282,7 +282,7 @@ The Pedro Bank, a highly reflective shallow region southwest of Jamaica, and oth
 
 ## Global Ocean Color Sensors
 
-![](../.gitbook/assets/image%20%28140%29.png)
+![](../.gitbook/assets/image%20%28142%29.png)
 
 ## ESA CCI
 

@@ -44,7 +44,7 @@ If you are unsure of which ERDDAP hosts the dataset you are interested in, you c
 
 ## Example \#1. Examine the Kilauea algae bloom
 
-![](../.gitbook/assets/image%20%28103%29.png)
+![](../.gitbook/assets/image%20%28104%29.png)
 
 Following the 2018 lower Puna eruption, an algae bloom was observed off the east coast of the Big Island in June 2018 \(visible near the easternmost point of the island if you zoom in\). 
 
@@ -57,7 +57,7 @@ Let’s see what the chlorophyll concentration data looks like for that period.
 
 Here is what you should see. 
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28128%29.png)
 
 You'll notice that for this dataset, longitudes go from 0º to 360º instead of -180º to 180º. This allows users to download data for regions across the dateline. Other data sources, not focused on the Pacific, provide the data with longitudes between -180º and 180º. 
 
@@ -71,7 +71,7 @@ You should always check the range of longitudes and latitudes for each dataset y
 * Adjust the colorbar minimum to 0.005 
 * Click on “redraw the graph”
 
-![](../.gitbook/assets/image%20%28116%29.png)
+![](../.gitbook/assets/image%20%28117%29.png)
 
 Scroll through the different time steps using the + button next to the date to see the full extent of the bloom. You can also adjust the color scale by setting different values for colorbar minimum and maximum.   
 Don't forget to click on "Redraw the Graph" after you change settings.
@@ -82,7 +82,7 @@ Under the "redraw the Graph" button, set the file type to ".largePng" and click 
 
 After making all these changes, when the map looks the way you want it to, you can easily share it, or save it by simply copying the URL in your browser.
 
-![](../.gitbook/assets/image%20%28171%29.png)
+![](../.gitbook/assets/image%20%28173%29.png)
 
 ## Griddap versus Tabledap
 
@@ -133,7 +133,7 @@ Go to the [OceanWatch Central Pacific ERDDAP](https://oceanwatch.pifsc.noaa.gov/
 * Change the "Graph Type" to "vectors"
 * Change "Vector X" to "ux" and "Vector Y" to "vy"
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 ## Example \#4. Examine the 1998 El Niño
 
@@ -142,12 +142,12 @@ Go to the [OceanWatch Central Pacific ERDDAP](https://oceanwatch.pifsc.noaa.gov/
 * Make a map of SST for January 1997, for the region: -20 - 20N, 180 to 300E, and adjust the color scale to 18-30ºC
 * Click on "Redraw the Graph"
 
-![SST for January 1997](../.gitbook/assets/image%20%28124%29.png)
+![SST for January 1997](../.gitbook/assets/image%20%28126%29.png)
 
 * Make a map of SST for January 1998, for same region and adjust the color scale
 * Click on "Redraw the Graph"
 
-![](../.gitbook/assets/image%20%28161%29.png)
+![](../.gitbook/assets/image%20%28163%29.png)
 
 We can clearly see the tongue of warm water due to the 1998 El Niño.
 

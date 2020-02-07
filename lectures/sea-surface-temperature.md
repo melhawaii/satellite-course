@@ -23,7 +23,7 @@ Sea surface temperature, when measured from space, represents temperature at a d
 
 ## SST & surface processes
 
-![From Martin 2010](../.gitbook/assets/image%20%28176%29.png)
+![From Martin 2010](../.gitbook/assets/image%20%28178%29.png)
 
 ## SST definitions
 
@@ -45,11 +45,11 @@ Sea surface temperature, when measured from space, represents temperature at a d
 
 Products blended from multiple satellites or multiple passes of the same satellite \(L3C, L3S, L4\) use different methods to combine the observations from several sensors and to preserve the resolution or gradients in SST.
 
-![](../.gitbook/assets/image%20%28122%29.png)
+![](../.gitbook/assets/image%20%28124%29.png)
 
 ## SST measurements
 
-![From Donlon et al, 2007](../.gitbook/assets/image%20%28156%29.png)
+![From Donlon et al, 2007](../.gitbook/assets/image%20%28158%29.png)
 
 ## Measurements of SST in the infrared 
 
@@ -72,7 +72,7 @@ If the earth's surface is regarded as a **blackbody** emitter, its apparent temp
 
 At higher wavelengths, transmittance is reduced to narrow bands. This includes the optical windows in the thermal infrared, where the Earth's surface emits radiation.
 
-![](../.gitbook/assets/image%20%28158%29.png)
+![](../.gitbook/assets/image%20%28160%29.png)
 
 For a surface at a brightness temperature around 20ºC, **the spectral radiance peaks at a wavelength around 10 µm.**   
 The peak of the Planck function for temperatures typical of the sea surface is close to the infrared atmospheric window, which is therefore well suited to SST measurement.
@@ -104,9 +104,9 @@ Even in clear-sky conditions, a significant fraction of the sea surface emission
 
 In the 10-12µm spectral interval, water vapor is responsible for most of the temperature deficit, and is **variable both in space and time**. Other gases that contribute to the temperature deficit are quite **well mixed** throughout the atmosphere, and therefore inflict a relatively constant temperature deficit that is simple to correct.
 
-![Water vapor distribution](../.gitbook/assets/image%20%28117%29.png)
+![Water vapor distribution](../.gitbook/assets/image%20%28118%29.png)
 
-![From Tynan, UCSD](../.gitbook/assets/image%20%28168%29.png)
+![From Tynan, UCSD](../.gitbook/assets/image%20%28170%29.png)
 
 The variability of water vapor requires an atmospheric correction algorithm based on the information contained in the measurements themselves.
 
@@ -174,7 +174,7 @@ No single source by itself can meet the GHRSST specification, but it can be achi
 * **Microwave & Infrared**: Microwave sensors can measure SST through clouds, although at a poorer spatial resolution than infrared radiometers.
 * **Blend Geo-Stationary & Polar**: Instruments in geostationary orbits provide high temporal resolution but with only regional coverage, and those in polar orbits provide global coverage with repeat times from 12h to several days. Geostationary sensors complement other types with their rapid sampling frequency, giving more opportunity for cloud-free views, but only within the field of view limited by the satellite's horizon.
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28100%29.png)
 
 ## Which SST dataset should be used?
 
@@ -200,7 +200,7 @@ From Irina Gladkova.
 
 ## L4 SST products
 
-![](../.gitbook/assets/image%20%28173%29.png)
+![](../.gitbook/assets/image%20%28175%29.png)
 
 ### Multiscale Ultra-high Resolution \(MUR\) SST
 
@@ -235,7 +235,7 @@ From Irina Gladkova.
 
 ### ~ High resolution in L4 products
 
-![Monterey Bay, June 12, 2018 ](../.gitbook/assets/image%20%28135%29.png)
+![Monterey Bay, June 12, 2018 ](../.gitbook/assets/image%20%28137%29.png)
 
 ## SST Quality Monitor \(SQUAM\)
 

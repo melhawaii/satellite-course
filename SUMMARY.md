@@ -15,4 +15,5 @@
   * [ERDDAP tutorial](tutorials/erddap-tutorial.md)
   * [R tutorial](tutorials/r-tutorial/README.md)
     * [1. How to work with satellite data in R](tutorials/r-tutorial/1.-how-to-work-with-satellite-data-in-r.md)
+    * [2. Comparison of chlorophyll data from different sensors](tutorials/r-tutorial/2.-comparison-of-chlorophyll-data-from-different-sensors.md)
 
