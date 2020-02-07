@@ -48,7 +48,7 @@ After \(many\) corrections and calibrations, algorithms are used to calculate ge
 
 ![From Robinson, Discovering the Ocean from Space](../.gitbook/assets/image%20%28116%29.png)
 
-![](../.gitbook/assets/image%20%28151%29.png)
+![](../.gitbook/assets/image%20%28152%29.png)
 
 Visible and IR \(Infrared\) radiation is typically measured in wavelengths.   
 Microwaves are measured in frequency.  
@@ -97,11 +97,11 @@ Most solar energy comes to the earth as short wavelength electromagnetic radiati
 
 In the **visible**, where the sun emits at the highest intensity, the atmospheric transmittance is high.
 
-![atmospheric window in the visible](../.gitbook/assets/image%20%28159%29.png)
+![atmospheric window in the visible](../.gitbook/assets/image%20%28160%29.png)
 
 At higher wavelengths, transmittance is reduced to narrow bands. This includes the optical windows in the **thermal infrared**, where the Earth's surface emits radiation.
 
-![optical windows in the thermal infrared](../.gitbook/assets/image%20%28180%29.png)
+![optical windows in the thermal infrared](../.gitbook/assets/image%20%28181%29.png)
 
 In the **microwaves**, the atmosphere is nearly transmissive, but the sun and earth's radiation are weak \(need large antennas to collect enough radiation\)
 
@@ -266,15 +266,15 @@ The sensor views the earth in a swath of individual scan lines as the satellite 
 
 ![GOES West Imager &#x2013; SST &#x2013; 1 hour, 09/15/2018](../.gitbook/assets/image%20%2852%29.png)
 
-![GOES West Imager &#x2013; SST &#x2013; 1 day, 09/15/2018](../.gitbook/assets/image%20%28169%29.png)
+![GOES West Imager &#x2013; SST &#x2013; 1 day, 09/15/2018](../.gitbook/assets/image%20%28170%29.png)
 
 ![GOES West Imager &#x2013; SST &#x2013; 1 week, 09/12/2018 &#x2013; 09/18/2018](../.gitbook/assets/image%20%2831%29.png)
 
-![GOES West Imager &#x2013; SST &#x2013; 1 month, 09/01/2018 - 09/30/2018](../.gitbook/assets/image%20%28155%29.png)
+![GOES West Imager &#x2013; SST &#x2013; 1 month, 09/01/2018 - 09/30/2018](../.gitbook/assets/image%20%28156%29.png)
 
 ### Level-3 vs. Level-4 data: Puerto Rico SST
 
-![From Irina Gladkova, NOAA/NESDIS](../.gitbook/assets/image%20%28149%29.png)
+![From Irina Gladkova, NOAA/NESDIS](../.gitbook/assets/image%20%28150%29.png)
 
 ### Levels of Data: L3 -&gt; L4 examples
 

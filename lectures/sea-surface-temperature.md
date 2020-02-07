@@ -23,7 +23,7 @@ Sea surface temperature, when measured from space, represents temperature at a d
 
 ## SST & surface processes
 
-![From Martin 2010](../.gitbook/assets/image%20%28181%29.png)
+![From Martin 2010](../.gitbook/assets/image%20%28182%29.png)
 
 ## SST definitions
 
@@ -49,7 +49,7 @@ Products blended from multiple satellites or multiple passes of the same satelli
 
 ## SST measurements
 
-![From Donlon et al, 2007](../.gitbook/assets/image%20%28160%29.png)
+![From Donlon et al, 2007](../.gitbook/assets/image%20%28161%29.png)
 
 ## Measurements of SST in the infrared 
 
@@ -72,7 +72,7 @@ If the earth's surface is regarded as a **blackbody** emitter, its apparent temp
 
 At higher wavelengths, transmittance is reduced to narrow bands. This includes the optical windows in the thermal infrared, where the Earth's surface emits radiation.
 
-![](../.gitbook/assets/image%20%28162%29.png)
+![](../.gitbook/assets/image%20%28163%29.png)
 
 For a surface at a brightness temperature around 20ºC, **the spectral radiance peaks at a wavelength around 10 µm.**   
 The peak of the Planck function for temperatures typical of the sea surface is close to the infrared atmospheric window, which is therefore well suited to SST measurement.
@@ -106,7 +106,7 @@ In the 10-12µm spectral interval, water vapor is responsible for most of the te
 
 ![Water vapor distribution](../.gitbook/assets/image%20%28120%29.png)
 
-![From Tynan, UCSD](../.gitbook/assets/image%20%28173%29.png)
+![From Tynan, UCSD](../.gitbook/assets/image%20%28174%29.png)
 
 The variability of water vapor requires an atmospheric correction algorithm based on the information contained in the measurements themselves.
 
@@ -200,7 +200,7 @@ From Irina Gladkova.
 
 ## L4 SST products
 
-![](../.gitbook/assets/image%20%28178%29.png)
+![](../.gitbook/assets/image%20%28179%29.png)
 
 ### Multiscale Ultra-high Resolution \(MUR\) SST
 

@@ -71,7 +71,7 @@ SLA obtained from satellite altimetry measurements is used to derive surface geo
 
 ![Son et al, 2014](../.gitbook/assets/image%20%28114%29.png)
 
-![Average geostrophic currents &#x2013; 1992 -2002, Cheng et al, 2014](../.gitbook/assets/image%20%28150%29.png)
+![Average geostrophic currents &#x2013; 1992 -2002, Cheng et al, 2014](../.gitbook/assets/image%20%28151%29.png)
 
 ## Eddies
 
@@ -100,7 +100,7 @@ Much of the ocean surface is interpolated: low spatial resolution ~ 25km, 7 days
 * AVISO data. Distributed by CMEMS \(Europe\). Free for research purposes but need to register to get access. [http://marine.copernicus.eu/services-portfolio/access-to-products](http://marine.copernicus.eu/services-portfolio/access-to-products/)[/](http://marine.copernicus.eu/services-portfolio/access-to-products/) 
 * NOAA SLA product: Open access. Currently only from 2012. [https://coastwatch.noaa.gov/cw/satellite-data-products/sea-surface-height/sea-level-anomaly-and-geostrophic-currents-multi-mission-global-optimal-interpolation-gridded.html](https://coastwatch.noaa.gov/cw/satellite-data-products/sea-surface-height/sea-level-anomaly-and-geostrophic-currents-multi-mission-global-optimal-interpolation-gridded.html)
 
-![From: Eric Leuliette, NOAA/NESDIS](../.gitbook/assets/image%20%28156%29.png)
+![From: Eric Leuliette, NOAA/NESDIS](../.gitbook/assets/image%20%28157%29.png)
 
 
 

@@ -1,6 +1,6 @@
 # Sea Surface Salinity
 
-![SMOS, 2010, from: http://www.salinityremotesensing.ifremer.fr/](../.gitbook/assets/image%20%28171%29.png)
+![SMOS, 2010, from: http://www.salinityremotesensing.ifremer.fr/](../.gitbook/assets/image%20%28172%29.png)
 
 The ocean is roughly 3.5% salt and the concentration of dissolved salts in the ocean is referred to as salinity, which varies across the globe and over time.
 

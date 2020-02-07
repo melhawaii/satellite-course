@@ -76,7 +76,7 @@ $$
 
 ![](../.gitbook/assets/image%20%2895%29.png)
 
-![](../.gitbook/assets/image%20%28152%29.png)
+![](../.gitbook/assets/image%20%28153%29.png)
 
 Reflectance is affected by the concentration of pigments in the water
 
@@ -101,7 +101,7 @@ Deriving biological parameters from ocean color measurements is a multi-stage pr
 
 ## Atmospheric correction
 
-![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28158%29.png)
+![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28159%29.png)
 
 The water signal is often less than 10% of the total signal measured by the sensor
 
@@ -109,7 +109,7 @@ The water signal is often less than 10% of the total signal measured by the sens
 
 ## “Ocean color” enables studying microscopic marine features from space
 
-![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28163%29.png)
+![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%28164%29.png)
 
 ![From: Jeremy Werdell, NASA](../.gitbook/assets/image%20%2869%29.png)
 
@@ -135,7 +135,7 @@ Each band or channel can be referred to by its central wavelength value or by se
 
 Sensor bands are chosen to target specific peaks in absorption spectra.
 
-![MODIS bands](../.gitbook/assets/image%20%28179%29.png)
+![MODIS bands](../.gitbook/assets/image%20%28180%29.png)
 
 ## Various pigments in algae = various peaks in absorption
 
@@ -143,7 +143,7 @@ Sensor bands are chosen to target specific peaks in absorption spectra.
 
 ## Spectral characteristics of oceanic waters
 
-![](../.gitbook/assets/image%20%28153%29.png)
+![](../.gitbook/assets/image%20%28154%29.png)
 
 ## Reminder: Higher order products
 
@@ -248,7 +248,7 @@ Many different models exist. References:
  [http://](http://www.ifado.eu/wp-content/uploads/2018/08/Lobanova_etal_RemoteSensing_2018-1.pdf)[www.ifado.eu/wp-content/uploads/2018/08/Lobanova\_etal\_RemoteSensing\_2018-1.pdf](http://www.ifado.eu/wp-content/uploads/2018/08/Lobanova_etal_RemoteSensing_2018-1.pdf)  
 
 
-![ESA &#x2013; May 2004, using OC-CCI data](../.gitbook/assets/image%20%28175%29.png)
+![ESA &#x2013; May 2004, using OC-CCI data](../.gitbook/assets/image%20%28176%29.png)
 
 ## Phytoplankton Composition
 

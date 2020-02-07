@@ -82,7 +82,7 @@ Under the "redraw the Graph" button, set the file type to ".largePng" and click 
 
 After making all these changes, when the map looks the way you want it to, you can easily share it, or save it by simply copying the URL in your browser.
 
-![](../.gitbook/assets/image%20%28176%29.png)
+![](../.gitbook/assets/image%20%28177%29.png)
 
 ## Griddap versus Tabledap
 
@@ -147,7 +147,7 @@ Go to the [OceanWatch Central Pacific ERDDAP](https://oceanwatch.pifsc.noaa.gov/
 * Make a map of SST for January 1998, for same region and adjust the color scale
 * Click on "Redraw the Graph"
 
-![](../.gitbook/assets/image%20%28165%29.png)
+![](../.gitbook/assets/image%20%28166%29.png)
 
 We can clearly see the tongue of warm water due to the 1998 El Niño.
 
