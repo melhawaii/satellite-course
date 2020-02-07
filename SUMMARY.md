@@ -17,4 +17,5 @@
     * [1. How to work with satellite data in R](tutorials/r-tutorial/1.-how-to-work-with-satellite-data-in-r.md)
     * [2. Comparison of chlorophyll data from different sensors](tutorials/r-tutorial/2.-comparison-of-chlorophyll-data-from-different-sensors.md)
     * [3. Extract data within a shapefile using ERDDAP](tutorials/r-tutorial/3.-extract-data-within-a-shapefile-using-erddap.md)
+    * [4. Extract data along a turtle track](tutorials/r-tutorial/4.-extract-data-along-a-turtle-track.md)
 
