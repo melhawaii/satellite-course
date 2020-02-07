@@ -6,17 +6,17 @@ The NOAA CoastWatch program was established in 1987 to provide easy access for e
 
 CoastWatch was first started to better understand harmful algal blooms off the East Coast of the US, and explore the use of satellite data to better map and predict those blooms.
 
-![Courtesy of Rick Stumpf, NOAA/NOS](../.gitbook/assets/image%20%28165%29.png)
+![Courtesy of Rick Stumpf, NOAA/NOS](../.gitbook/assets/image%20%28167%29.png)
 
 Today, the CoastWatch East Coast node routinely produces and distributes daily prediction maps of harmful algal blooms, using satellite data.
 
-![Courtesy of Rick Stumpf, NOAA/NOS](../.gitbook/assets/image%20%28102%29.png)
+![Courtesy of Rick Stumpf, NOAA/NOS](../.gitbook/assets/image%20%28103%29.png)
 
 
 
 The program includes a central office in College Park, MD, and several regional nodes across the US.
 
-![The different CW nodes](../.gitbook/assets/image%20%28136%29.png)
+![The different CW nodes](../.gitbook/assets/image%20%28138%29.png)
 
 | **Node** | **Website** |
 | :--- | :--- |

@@ -1,6 +1,6 @@
 # Sea Surface Temperature
 
-![NASA &#x2013; MODIS Terra, May 2001](../.gitbook/assets/image%20%2873%29.png)
+![NASA &#x2013; MODIS Terra, May 2001](../.gitbook/assets/image%20%2874%29.png)
 
 ## Objectives
 
@@ -23,11 +23,11 @@ Sea surface temperature, when measured from space, represents temperature at a d
 
 ## SST & surface processes
 
-![From Martin 2010](../.gitbook/assets/image%20%28178%29.png)
+![From Martin 2010](../.gitbook/assets/image%20%28180%29.png)
 
 ## SST definitions
 
-![From www.ghrsst.org](../.gitbook/assets/image%20%2882%29.png)
+![From www.ghrsst.org](../.gitbook/assets/image%20%2883%29.png)
 
 * The **skin temperature** is the temperature measured by an infrared radiometer typically operating at wavelengths 3.7-12 µm.  
 * For practical purposes, **SSTsubskin** can be well approximated by the measurement of temperature by a microwave radiometer operating in the 6-11 GHz frequency range  
@@ -45,11 +45,11 @@ Sea surface temperature, when measured from space, represents temperature at a d
 
 Products blended from multiple satellites or multiple passes of the same satellite \(L3C, L3S, L4\) use different methods to combine the observations from several sensors and to preserve the resolution or gradients in SST.
 
-![](../.gitbook/assets/image%20%28124%29.png)
+![](../.gitbook/assets/image%20%28126%29.png)
 
 ## SST measurements
 
-![From Donlon et al, 2007](../.gitbook/assets/image%20%28158%29.png)
+![From Donlon et al, 2007](../.gitbook/assets/image%20%28160%29.png)
 
 ## Measurements of SST in the infrared 
 
@@ -61,18 +61,18 @@ SST has been measured accurately in the infrared since 1981
 
 #### Plank’s law for a blackbody emitter
 
-![From Robinson 2004](../.gitbook/assets/image%20%2828%29.png)
+![From Robinson 2004](../.gitbook/assets/image%20%2829%29.png)
 
 The thermal radiation emitted at a particular wavelength from a warm object depends on its temperature.   
 If the earth's surface is regarded as a **blackbody** emitter, its apparent temperature \(known as the **brightness temperature**\) and its emitted radiation are related by Planck's law. 
 
 #### Reminder: Atmospheric windows
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 At higher wavelengths, transmittance is reduced to narrow bands. This includes the optical windows in the thermal infrared, where the Earth's surface emits radiation.
 
-![](../.gitbook/assets/image%20%28160%29.png)
+![](../.gitbook/assets/image%20%28162%29.png)
 
 For a surface at a brightness temperature around 20ºC, **the spectral radiance peaks at a wavelength around 10 µm.**   
 The peak of the Planck function for temperatures typical of the sea surface is close to the infrared atmospheric window, which is therefore well suited to SST measurement.
@@ -85,7 +85,7 @@ The peak of the Planck function for temperatures typical of the sea surface is c
 
 As the electromagnetic radiation propagates through the atmosphere, some of it is absorbed and scattered out of the field of view of the radiometer, thereby attenuating the original signal.
 
-![From NASA](../.gitbook/assets/image%20%2824%29.png)
+![From NASA](../.gitbook/assets/image%20%2825%29.png)
 
 Earth viewed through the atmosphere is not quite a blackbody   
 -&gt; atmospheric correction needed
@@ -94,7 +94,7 @@ Earth viewed through the atmosphere is not quite a blackbody
 
 If the attenuation is sufficiently strong, none of the radiation from the sea reaches the height of the satellite, which is the case when clouds are present in the field of view of infrared radiometers.
 
-![Global cloudiness](../.gitbook/assets/image%20%2856%29.png)
+![Global cloudiness](../.gitbook/assets/image%20%2857%29.png)
 
 #### Temperature Deficit: 
 
@@ -104,9 +104,9 @@ Even in clear-sky conditions, a significant fraction of the sea surface emission
 
 In the 10-12µm spectral interval, water vapor is responsible for most of the temperature deficit, and is **variable both in space and time**. Other gases that contribute to the temperature deficit are quite **well mixed** throughout the atmosphere, and therefore inflict a relatively constant temperature deficit that is simple to correct.
 
-![Water vapor distribution](../.gitbook/assets/image%20%28118%29.png)
+![Water vapor distribution](../.gitbook/assets/image%20%28120%29.png)
 
-![From Tynan, UCSD](../.gitbook/assets/image%20%28170%29.png)
+![From Tynan, UCSD](../.gitbook/assets/image%20%28172%29.png)
 
 The variability of water vapor requires an atmospheric correction algorithm based on the information contained in the measurements themselves.
 
@@ -120,11 +120,11 @@ Nowadays, more complex algorithms are used to improve accuracy.
 
 The atmospheric correction algorithms **work effectively only in the clear atmosphere**. The presence of clouds contaminates the measurement so they must be identified and removed from the SST retrieval process.
 
-![From Robinson 2004](../.gitbook/assets/image%20%2885%29.png)
+![From Robinson 2004](../.gitbook/assets/image%20%2886%29.png)
 
 #### SST observations in the Infrared to date
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2893%29.png)
 
 A lot of concurrent observations from different sensors, which can be combined.
 
@@ -139,7 +139,7 @@ Measured accurately globally since 2002 \(AMSR-E\)
 
 #### Reminder: Atmospheric windows
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
 **Low Intensity Signal**:   
 The intensity of microwave radiation at the top of the atmosphere is low, but we can compensate with large \(~m\) antennae for microwave instruments.
@@ -174,13 +174,13 @@ No single source by itself can meet the GHRSST specification, but it can be achi
 * **Microwave & Infrared**: Microwave sensors can measure SST through clouds, although at a poorer spatial resolution than infrared radiometers.
 * **Blend Geo-Stationary & Polar**: Instruments in geostationary orbits provide high temporal resolution but with only regional coverage, and those in polar orbits provide global coverage with repeat times from 12h to several days. Geostationary sensors complement other types with their rapid sampling frequency, giving more opportunity for cloud-free views, but only within the field of view limited by the satellite's horizon.
 
-![](../.gitbook/assets/image%20%28100%29.png)
+![](../.gitbook/assets/image%20%28101%29.png)
 
 ## Which SST dataset should be used?
 
 From Irina Gladkova.
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
 #### User’s wish list: 
 
@@ -200,11 +200,11 @@ From Irina Gladkova.
 
 ## L4 SST products
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](../.gitbook/assets/image%20%28177%29.png)
 
 ### Multiscale Ultra-high Resolution \(MUR\) SST
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 * Created by NASA Jet Propulsion Laboratory 
 * June 1, 2002 – present 
@@ -217,7 +217,7 @@ From Irina Gladkova.
 
 ### Geo-Polar Blended SST
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
 * Created by NOAA Satellite Service, Satellite Applications & Research
 * 2002 – present 
@@ -231,11 +231,11 @@ From Irina Gladkova.
 
 From Irina Gladkova.
 
-![Aleutian Island, June 7, 2018 ](../.gitbook/assets/image%20%2845%29.png)
+![Aleutian Island, June 7, 2018 ](../.gitbook/assets/image%20%2846%29.png)
 
 ### ~ High resolution in L4 products
 
-![Monterey Bay, June 12, 2018 ](../.gitbook/assets/image%20%28137%29.png)
+![Monterey Bay, June 12, 2018 ](../.gitbook/assets/image%20%28139%29.png)
 
 ## SST Quality Monitor \(SQUAM\)
 

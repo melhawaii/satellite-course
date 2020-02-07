@@ -1,6 +1,6 @@
 # Sea Surface Salinity
 
-![SMOS, 2010, from: http://www.salinityremotesensing.ifremer.fr/](../.gitbook/assets/image%20%28168%29.png)
+![SMOS, 2010, from: http://www.salinityremotesensing.ifremer.fr/](../.gitbook/assets/image%20%28170%29.png)
 
 The ocean is roughly 3.5% salt and the concentration of dissolved salts in the ocean is referred to as salinity, which varies across the globe and over time.
 
@@ -12,7 +12,7 @@ The concentration of salt on the ocean surface — the part of the ocean that ac
 
 Together with temperature, salinity controls the density of seawater, determining whether it sinks or floats. Salinity has a major effect on the flow of deep ocean currents that move heat from the tropics to the poles and affect global climate.
 
-![](../.gitbook/assets/image%20%28109%29.png)
+![](../.gitbook/assets/image%20%28110%29.png)
 
 ## Basic principle
 
@@ -20,7 +20,7 @@ The relationship between conductivity and salinity allows for remote sensing of 
 
 For accurate measurements, it’s necessary to make adjustments for the sea surface temperature and roughness, the intervening atmosphere and ionosphere, and galactic signals reflected off the sea surface.
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 Steps for salinity retrieval: 
 

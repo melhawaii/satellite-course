@@ -14,7 +14,7 @@ Go to the OW Voyager viewer page: [http://www.pacioos.hawaii.edu/voyager/oceanwa
 
 On the Welcome screen, click on the “Help” tab and read through it to familiarize yourself with Voyager.
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](../.gitbook/assets/image%20%28171%29.png)
 
 Close the Welcome screen
 
@@ -30,7 +30,7 @@ In the side bar, under “satellite data”:
 
 You should now have a map for June 2002.
 
-![](../.gitbook/assets/image%20%28144%29.png)
+![](../.gitbook/assets/image%20%28146%29.png)
 
 ## Map options
 
@@ -51,7 +51,7 @@ Click on the + sign next to “map options”, to expand the map options menu.
 * Unselect EEZ, then at the very top of the side bar, click on “set region”. Select “Hawaii”. Then “set region”. Click on a location close to Kailua-Kona. 
 * In the menu that pops up, click on “all” on the “show data plot” row. This generates a time-series of SST at that location.
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 * Close the pop up window. 
 
@@ -62,7 +62,7 @@ Click on the + sign next to “map options”, to expand the map options menu.
 * Click on a location on the map for the first corner of the box, then a second one. 
 * Click on the marker in the center of the box, then again select “show data plot all”.  This can take a while to compute. Don’t make your box too big.   This computes statistics within that box \(depending on what you selected, average temperature, standard deviation, minimum, maximum for that whole box\). You’ll notice this dataset has a coarser spatial resolution.
 
-![](../.gitbook/assets/image%20%28167%29.png)
+![](../.gitbook/assets/image%20%28169%29.png)
 
 * Click on “back” in the bottom left corner of the pop-up window, then click on “download data all”.  This generates a csv file of the whole time-series.
 
@@ -72,5 +72,5 @@ Click on the + sign next to “map options”, to expand the map options menu.
 * In your pop-up window, click on “remove area” to clear the map.
 * Zoom out until you can see the whole North Pacific. Then at the top right of the screen, click on “save image” then “get image”. This can take a while. Eventually, you will be prompted to save the image. It should look something like this:
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 
