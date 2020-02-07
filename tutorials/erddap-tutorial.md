@@ -82,7 +82,7 @@ Under the "redraw the Graph" button, set the file type to ".largePng" and click 
 
 After making all these changes, when the map looks the way you want it to, you can easily share it, or save it by simply copying the URL in your browser.
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](../.gitbook/assets/image%20%28176%29.png)
 
 ## Griddap versus Tabledap
 

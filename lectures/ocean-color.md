@@ -135,7 +135,7 @@ Each band or channel can be referred to by its central wavelength value or by se
 
 Sensor bands are chosen to target specific peaks in absorption spectra.
 
-![MODIS bands](../.gitbook/assets/image%20%28178%29.png)
+![MODIS bands](../.gitbook/assets/image%20%28179%29.png)
 
 ## Various pigments in algae = various peaks in absorption
 
@@ -248,7 +248,7 @@ Many different models exist. References:
  [http://](http://www.ifado.eu/wp-content/uploads/2018/08/Lobanova_etal_RemoteSensing_2018-1.pdf)[www.ifado.eu/wp-content/uploads/2018/08/Lobanova\_etal\_RemoteSensing\_2018-1.pdf](http://www.ifado.eu/wp-content/uploads/2018/08/Lobanova_etal_RemoteSensing_2018-1.pdf)  
 
 
-![ESA &#x2013; May 2004, using OC-CCI data](../.gitbook/assets/image%20%28174%29.png)
+![ESA &#x2013; May 2004, using OC-CCI data](../.gitbook/assets/image%20%28175%29.png)
 
 ## Phytoplankton Composition
 

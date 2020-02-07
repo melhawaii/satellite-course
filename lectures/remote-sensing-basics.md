@@ -101,7 +101,7 @@ In the **visible**, where the sun emits at the highest intensity, the atmospheri
 
 At higher wavelengths, transmittance is reduced to narrow bands. This includes the optical windows in the **thermal infrared**, where the Earth's surface emits radiation.
 
-![optical windows in the thermal infrared](../.gitbook/assets/image%20%28179%29.png)
+![optical windows in the thermal infrared](../.gitbook/assets/image%20%28180%29.png)
 
 In the **microwaves**, the atmosphere is nearly transmissive, but the sun and earth's radiation are weak \(need large antennas to collect enough radiation\)
 
@@ -266,7 +266,7 @@ The sensor views the earth in a swath of individual scan lines as the satellite 
 
 ![GOES West Imager &#x2013; SST &#x2013; 1 hour, 09/15/2018](../.gitbook/assets/image%20%2852%29.png)
 
-![GOES West Imager &#x2013; SST &#x2013; 1 day, 09/15/2018](../.gitbook/assets/image%20%28168%29.png)
+![GOES West Imager &#x2013; SST &#x2013; 1 day, 09/15/2018](../.gitbook/assets/image%20%28169%29.png)
 
 ![GOES West Imager &#x2013; SST &#x2013; 1 week, 09/12/2018 &#x2013; 09/18/2018](../.gitbook/assets/image%20%2831%29.png)
 

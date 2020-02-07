@@ -14,7 +14,7 @@ Go to the OW Voyager viewer page: [http://www.pacioos.hawaii.edu/voyager/oceanwa
 
 On the Welcome screen, click on the “Help” tab and read through it to familiarize yourself with Voyager.
 
-![](../.gitbook/assets/image%20%28171%29.png)
+![](../.gitbook/assets/image%20%28172%29.png)
 
 Close the Welcome screen
 
@@ -62,7 +62,7 @@ Click on the + sign next to “map options”, to expand the map options menu.
 * Click on a location on the map for the first corner of the box, then a second one. 
 * Click on the marker in the center of the box, then again select “show data plot all”.  This can take a while to compute. Don’t make your box too big.   This computes statistics within that box \(depending on what you selected, average temperature, standard deviation, minimum, maximum for that whole box\). You’ll notice this dataset has a coarser spatial resolution.
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](../.gitbook/assets/image%20%28170%29.png)
 
 * Click on “back” in the bottom left corner of the pop-up window, then click on “download data all”.  This generates a csv file of the whole time-series.
 
